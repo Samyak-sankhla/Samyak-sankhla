@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=200&section=header&text=Samyak%20Sankhla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%26%20Edge%20AI%20Engineer&descAlignY=60&descSize=20" />
+# Samyak Sankhla
 
 ### `Computer Vision & Edge AI Engineer` · `Robotics` · `Embedded ML`
 
