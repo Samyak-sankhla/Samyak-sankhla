@@ -220,24 +220,7 @@ Authors: Aneesh Bharadwaj K S, **Samyak Sankhla**, Shama Hegde, Prafullata Aurad
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samyak-sankhla&show_icons=true&theme=react&title_color=8a2be2&icon_color=8a2be2&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak-sankhla&layout=compact&theme=react&title_color=8a2be2&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Samyak-sankhla&theme=react&hide_border=true&background=0D1117&stroke=8a2be2&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" />
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/vX9WcCiWwUF7needn7/giphy.gif" width="28"> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samyak-sankhla&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
