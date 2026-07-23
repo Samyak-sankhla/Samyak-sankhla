@@ -60,7 +60,7 @@ I focus on shipping **production-grade, end-to-end systems** — from deep learn
 ![Backend](https://skillicons.dev/icons?i=flask,mysql,mongodb&theme=dark)
 
 #### AI / ML & Robotics
-![AIML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros,sklearn,numpy&theme=dark)
+![AIML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros,sklearn&theme=dark)
 
 #### Cloud, DevOps & Tooling
 ![Tooling](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)
@@ -219,6 +219,8 @@ Authors: Aneesh Bharadwaj K S, **Samyak Sankhla**, Shama Hegde, Prafullata Aurad
 ---
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> GitHub Analytics
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Samyak-sankhla&theme=react&hide_border=true&background=0D1117&stroke=8a2be2&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" />
 
