@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=200&section=header&text=Samyak%20Sankhla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%26%20Edge%20AI%20Engineer&descAlignY=60&descSize=20" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Edge+AI+Engineer;Robotics+%7C+ROS2+%7C+Embedded+ML;Full+Stack+%26+Product+Engineering;Building+Real-Time+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://github.com/Samyak-sankhla"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Edge+AI+Engineer;Robotics+%7C+ROS2+%7C+Embedded+ML;Edge-ML+%7C+Real-Time+Perception;Building+Intelligent+Systems+That+Run+on+the+Edge" alt="Typing SVG" /></a>
 
 <br/>
 
