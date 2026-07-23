@@ -47,21 +47,21 @@ I focus on shipping **production-grade, end-to-end systems** — from deep learn
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
 #### Languages
-![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,ts&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)
 ![SQL](https://img.shields.io/badge/SQL-4B0082?style=flat-square&logo=postgresql&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-6A0DAD?style=flat-square&logo=arm&logoColor=white)
 
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,js&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)
 
 #### Backend & Databases
-![Backend](https://skillicons.dev/icons?i=nodejs,flask,fastapi,postgres,mysql,mongodb&theme=dark)
+![Backend](https://skillicons.dev/icons?i=flask,fastapi,mysql,mongodb&theme=dark)
 
 #### AI / ML & Robotics
 ![AIML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros,sklearn&theme=dark)
 
 #### Cloud, DevOps & Tooling
-![Tooling](https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&theme=dark)
+![Tooling](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)
 
 ---
 
