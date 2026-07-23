@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=200&section=header&text=Samyak%20Sankhla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%26%20Edge%20AI%20Engineer&descAlignY=60&descSize=20" />
 
-<a href="https://github.com/Samyak-sankhla"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Edge+AI+Engineer;Robotics+%7C+ROS2+%7C+Embedded+ML;Edge-ML+%7C+Real-Time+Perception;Building+Intelligent+Systems+That+Run+on+Edge" alt="Typing SVG" /></a>
+### `Computer Vision & Edge AI Engineer` · `Robotics` · `Embedded ML`
+
+**Building intelligent systems that run on the edge — from the model to the metal.**
 
 <br/>
 
@@ -47,15 +49,15 @@ I focus on shipping **production-grade, end-to-end systems** — from deep learn
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
 #### Languages
-![Languages](https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,java,c&theme=dark)
 ![SQL](https://img.shields.io/badge/SQL-4B0082?style=flat-square&logo=postgresql&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-6A0DAD?style=flat-square&logo=arm&logoColor=white)
 
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,js&theme=dark)
 
 #### Backend & Databases
-![Backend](https://skillicons.dev/icons?i=flask,fastapi,mysql,mongodb&theme=dark)
+![Backend](https://skillicons.dev/icons?i=flask,mysql,mongodb&theme=dark)
 
 #### AI / ML & Robotics
 ![AIML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros,sklearn&theme=dark)
