@@ -60,7 +60,7 @@ I focus on shipping **production-grade, end-to-end systems** — from deep learn
 ![Backend](https://skillicons.dev/icons?i=flask,mysql,mongodb&theme=dark)
 
 #### AI / ML & Robotics
-![AIML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros,sklearn&theme=dark)
+![AIML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros,sklearn,numpy,pandas&theme=dark)
 
 #### Cloud, DevOps & Tooling
 ![Tooling](https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark)
